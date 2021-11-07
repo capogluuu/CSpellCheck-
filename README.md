@@ -3,7 +3,7 @@
 # CSpellCheck
  
  <p align="center">
-    <img src="image/Cspellcheck.PNG" alt="alternate text">
+    <img src="image/Cspellcheck.PNG" alt="*Cspellcheck">
  </p>
  
 ## Resources
